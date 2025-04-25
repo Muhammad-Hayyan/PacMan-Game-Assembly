@@ -65,6 +65,15 @@ You should implement the following screens:
 
 ---
 
+## 🚀 How to Run
+
+1. Clone this repo or extract the `.zip` file.
+2. Set up your Visual Studio for x86 assembly
+3. Import Irvine Library
+4. Paste the pacman.asm in your visual studio
+
+
+
 
 
 
